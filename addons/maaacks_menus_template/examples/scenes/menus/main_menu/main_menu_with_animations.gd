@@ -1,4 +1,6 @@
 extends MainMenu
+## Main menu extension that animates the title and menu fading in.
+## The animation can be skipped by the player with any input.
 
 var animation_state_machine : AnimationNodeStateMachinePlayback
 
